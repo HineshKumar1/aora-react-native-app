@@ -1,6 +1,3 @@
-Here is the complete `README.md` file with all the content:
-
-```markdown
 # Aora - Video Streaming App
 
 ## Description
@@ -105,9 +102,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out at your-email@example.com.
+If you have any questions or suggestions, feel free to reach out at hickkumar47@gmail.com.
 
 ---
 
 Happy Streaming! 🚀
-```
