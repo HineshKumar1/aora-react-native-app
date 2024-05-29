@@ -51,6 +51,7 @@ const Create = () => {
 
     setuploading(true);
     try {
+      
       Alert.alert('Success','Post uploaded successfully')
       router.push('/home')
     } catch (error) {
